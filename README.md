@@ -54,4 +54,4 @@ da janela *About* do programa, ou escreva para **GalS.EM.email@gmail.com**.
 
 ---
 
-© 1992–2026 Eduardo Monteiro. Todos os direitos reservados.
+© 1992–2026 Eduardo Monteiro.
