@@ -50,7 +50,7 @@ certutil -hashfile GalS_Setup_<versão>.exe SHA256
 ## Contacto
 
 Para reportar uma «Não convergência» ou sugerir uma melhoria, use o **Contacto**
-da janela *About* do programa.
+da janela *About* do programa, ou escreva para **GalS.EM.email@gmail.com**.
 
 ---
 
