@@ -1,0 +1,5 @@
+# O GalS lê este ficheiro quando se carrega em «Verificar se há uma Nova Versão», no About.
+# versao: a última versão publicada (ANO.NUMERO); pagina: a página dela, que o GalS abre.
+# Atualiza-se a cada release, DEPOIS de a publicar.
+versao=2026.0
+pagina=https://github.com/GalsEM/GalS/releases/tag/v2026.0
