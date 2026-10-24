@@ -6,19 +6,19 @@ Nasceu em 1992; a versão atual é de 2026.
 
 ## O que faz
 
-- **Secções**  poligonais fechadas quaisquer, com a armadura passiva e pré-esforçada.
+- **Secções**  poligonais quaisquer, com a armadura passiva e pré-esforçada.
 - **Estado limite último**: flexão composta desviada (N, My, Mz), com o fator de
   segurança, o diagrama de interação N-M e o relatório com o plano de extensões,
-  as tensões e a posição da linha neutra.
-- **Estados limites de serviço**: limitação de tensões (§7.2), fendilhação e
-  momento de fendilhação (§7.3), com a fluência e a retração do Anexo B.
+  as tensões e a posição da linha neutra. Esforço Transverso e Torção.
+- **Estados limites de serviço**: limitação de tensões (§7.2), fendilhação (§7.3), 
+  com a fluência e a retração do Anexo B. Flecha a longo prazo.
 - **Pré-esforço** por cabos aderentes: as perdas imediatas e diferidas (5.46),
-  a relaxação, a transferência e a verificação ao ELU com a extensão prévia.
-- **esforços lidos do Excel**, ou colados do Clipboard, com os resultados devolvidos 
-  ao Excel.
+  a relaxação, e a verificação ao ELU com a extensão prévia.
+- **esforços lidos do Excel**, ou colados do Clipboard, com os resultados
+  devolvidos ao Excel.
 - **Textos de apoio**: alguns documentos que explicam, passo a passo e com um
-  exemplo, o cálculo da fluência, da retração, da relaxação e dos ELU com
-  pré-esforço. 
+  exemplo, o cálculo da fluência, da retração, da relaxação, flecha a longo
+  prazo e dos ELU com pré-esforço. 
 
 ## Instalar
 
